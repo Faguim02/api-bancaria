@@ -7,3 +7,9 @@ Endpointes:
 /profile - retorna os dados do perfil althenticado (só authenticados podem fazer)
 
 Não conseguir fazer um PHP pois não tenho experiência, mas passei o sabado estudando php para ver se conseguia, e achei até interessante, mas não achei que seria capaz de fazer uma api em um framework php em pouco tempo, então fiz em node msm, mas irei estudar mais php.
+
+
+Interface em React: https://github.com/Faguim02/interface-bancaria
+ficou incompleta pois estava trabalhando hoje (segunda) o dia todo, acabou que fiz esse projeto, tanto o backend como o frontend no domingo.
+
+Obrigado desde já.
