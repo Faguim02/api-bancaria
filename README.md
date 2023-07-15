@@ -15,6 +15,5 @@ Não conseguir fazer um PHP pois não tenho experiência, mas passei o sabado es
 
 
 Interface em React: https://github.com/Faguim02/interface-bancaria
-ficou incompleta pois estava trabalhando hoje (segunda) o dia todo, acabou que fiz esse projeto, tanto o backend como o frontend no domingo.
 
 Obrigado desde já.
